@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shimseunggi
-- 👀 I’m interested in robot
-- 🌱 I’m currently learning A.I programming basic
-- 📫 How to reach me send email rosexpedition0506@gmail.com
+- 👀 I’m interested in rocket
+- 🌱 I’m currently learning mechanical engineering basic
+- 📫 How to reach me send email shimseunggi@naver.com
 
 <!---
 shimseunggi/shimseunggi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
